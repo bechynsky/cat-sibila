@@ -92,3 +92,7 @@ button:active {
   border: 2px solid rgba(255, 255, 255, 0.72);
   box-shadow: 0 8px 18px rgba(78, 60, 101, 0.12);
 }
+
+#fortuneImage[hidden] {
+  display: none;
+}
