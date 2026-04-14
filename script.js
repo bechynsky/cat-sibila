@@ -12,5 +12,5 @@ const fortuneText = document.getElementById('fortuneText');
 
 fortuneButton.addEventListener('click', () => {
   const randomIndex = Math.floor(Math.random() * fortunes.length);
-  fortuneText.textContent = fortunes[randomIndex];
+  fortuneText.textContent = `Kočka říká: ${fortunes[randomIndex]}`;
 });
