@@ -169,13 +169,3 @@ Příklad:
 ```
 https://bechynsky.github.io/cat-sibila/
 ```
-
----
-
-# Odevzdání
-
-Odevzdejte:
-
-- odkaz na GitHub repozitář,
-- odkaz na publikovanou stránku GitHub Pages,
-- krátký seznam promptů, které byly použity při tvorbě aplikace.
